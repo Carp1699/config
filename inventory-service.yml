@@ -10,7 +10,6 @@ eureka:
     instance:
       hostname: localhost
       prefer-ip-address: true
-In YAML format, indentation and nesting are used to represent the structure of the properties. Each level of indentation corresponds to a level of nesting. The YAML version above retains the structure of your original .properties configuration.
 
 
 
