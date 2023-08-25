@@ -1,5 +1,4 @@
-server:
-  port: 8761
+
 # EurekaServer
 eureka:
   client:
@@ -10,3 +9,5 @@ eureka:
     instance:
       hostname: localhost
       prefer-ip-address: true
+server:
+  port: 8761
